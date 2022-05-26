@@ -1,6 +1,6 @@
 ---
-title: New Title
-description: New Description
+title: Autumn Liu
+description: Personal website of Autumn Liu
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
