@@ -3,6 +3,8 @@ title: Basic Graphing Assignment
 description: Contains my submission for the basic graphing assignment
 ---
 
+![GraphPagePicture](/pics/graphpic.png)
+
 Link to Home Page:
 - [Return to Home Page](https://liuaki03.github.io)
 
